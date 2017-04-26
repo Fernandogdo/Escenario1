@@ -1,0 +1,29 @@
+	************ Programadores ************
+	Número nomina:1
+
+Programador 1:
+Nombre: Carlos Carrión
+Salario Mensual: 1200.0
+Lenguajes: 
+Python
+
+Programador 2:
+Nombre: Alexander Gomez
+Salario Mensual: 2000.0
+Lenguajes:
+Java
+C++	************ Programadores ************
+	Número nomina:1
+
+Programador 1:
+Nombre: Carlos Carrión
+Salario Mensual: 1200.0
+Lenguajes: 
+Python
+
+Programador 2:
+Nombre: Alexander Gomez
+Salario Mensual: 2000.0
+Lenguajes:
+Java
+C++
